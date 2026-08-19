@@ -300,7 +300,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 **Ahmed Yasser Belaih**  
 GitHub: [@AhmedYaSSerUNKN](https://github.com/AhmedYaSSerUNKN)  
-Repository: [thinkinh-about-it](https://github.com/AhmedYaSSerUNKN/thinkinh-about-it)
+Repository: [Your-Personal-AI-Teaching-Assistant-for-Lecture-Slides-V2](https://github.com/AhmedYaSSerUNKN/thinkinh-about-it)
 
 ---
 
@@ -319,6 +319,4 @@ Repository: [thinkinh-about-it](https://github.com/AhmedYaSSerUNKN/thinkinh-abou
 
 Have questions or found a bug? Open an issue on GitHub or reach out to the author.
 
----
 
-**Built with ❤️ to democratize access to intelligent tutoring.**
